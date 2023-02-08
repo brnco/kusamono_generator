@@ -1,0 +1,3 @@
+[submodule "calscape_airtable"]
+	path = calscape_airtable
+	url = https://github.com/brnco/calscape_airtable
